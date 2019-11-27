@@ -8,6 +8,6 @@ entries:
     digest: cedece6b7c6a1fc267cbe301fd8f151855ac1e36f5472f95e3adbb8858383c83
     name: my-app
     urls:
-    - https://tonysyzer69.github.io/helm-example/my-app-0.1.0.tgz
-    version: 0.1.0
+    - https://tonysyzer69.github.io/helm-example/my-app-0.2.0.tgz
+    version: 0.2.0
 generated: "2019-11-27T10:58:55.739273292-08:00"
